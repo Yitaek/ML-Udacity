@@ -1,0 +1,1631 @@
+epsilon = 0.1, alpha = 0.2, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+
+epsilon = 0.5, alpha = 0.2, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+
+epsilon = 0.9, alpha = 0.2, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+
+epsilon = 0.05, alpha = 0.2, gamma = 0.9
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.8, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.1, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.1, alpha = 0.2, gamma = 0
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.1, alpha = 0.2, gamma = 1
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.1
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 1
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.8
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.9
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+
+epsilon = 0.05, alpha = 0.01, gamma = 0.9
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent failed to reach the destination. 
+Agent failed to reach the destination. 
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
+Agent reached the destination
