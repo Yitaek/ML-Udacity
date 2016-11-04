@@ -4,11 +4,11 @@ import os
 from collections import OrderedDict
 from simulator import Simulator
 
-cur_dir = os.path.dirname(__file__)
+"""cur_dir = os.path.dirname(__file__)
 path = os.path.abspath(cur_dir)
 path = os.path.join(path, '../sim-results')
 fullpath = os.path.join(path, "q_learn.txt")
-file = open(fullpath, 'a')
+file = open(fullpath, 'a')"""
 
 class TrafficLight(object):
     """A traffic light that switches periodically."""
@@ -71,6 +71,9 @@ class Environment(object):
         self.primary_agent = None  # to be set explicitly
         self.enforce_deadline = False
 
+        # Success Rate
+        self.successRate = 0
+
     def create_agent(self, agent_class, *args, **kwargs):
         agent = agent_class(self, *args, **kwargs)
         self.agent_states[agent] = {'location': random.choice(self.intersections.keys()), 'heading': (0, 1)}
@@ -129,11 +132,11 @@ class Environment(object):
             if agent_deadline <= self.hard_time_limit:
                 self.done = True
                 print "Environment.step(): Primary agent hit hard time limit ({})! Trial aborted.".format(self.hard_time_limit)
-                file.write("Agent failed to reach the destination. \n")
+                #file.write("Agent failed to reach the destination. \n")
             elif self.enforce_deadline and agent_deadline <= 0:
                 self.done = True
                 print "Environment.step(): Primary agent ran out of time! Trial aborted."
-                file.write("Agent failed to reach the destination. \n")
+                #file.write("Agent failed to reach the destination. \n")
             self.agent_states[self.primary_agent]['deadline'] = agent_deadline - 1
 
         self.t += 1
@@ -179,6 +182,8 @@ class Environment(object):
         light = 'green' if (self.intersections[location].state and heading[1] != 0) or ((not self.intersections[location].state) and heading[0] != 0) else 'red'
         inputs = self.sense(agent)
 
+        #print inputs.keys()
+
         # Move agent if within bounds and obeys traffic rules
         reward = 0  # reward/penalty
         move_okay = True
@@ -219,9 +224,11 @@ class Environment(object):
                     reward += 10  # bonus
                 self.done = True
                 print "Environment.act(): Primary agent has reached destination!"  # [debug]
-                file.write("Agent reached the destination\n")
+                self.successRate += 1 
+                #print self.successRate
+                #file.write("Agent reached the destination - SuccessRate: {}\n".format(self.successRate))
             self.status_text = "state: {}\naction: {}\nreward: {}".format(agent.get_state(), action, reward)
-            #print "Environment.act() [POST]: location: {}, heading: {}, action: {}, reward: {}".format(location, heading, action, reward)  # [debug]
+            #file.write("Environment.act() [POST]: location: {}, heading: {}, action: {}, reward: {}\n".format(location, heading, action, reward))# [debug]
 
         return reward
 

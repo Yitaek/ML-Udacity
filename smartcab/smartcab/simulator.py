@@ -67,6 +67,7 @@ class Simulator(object):
             self.current_time = 0.0
             self.last_updated = 0.0
             self.start_time = time.time()
+
             while True:
                 try:
                     # Update current time

@@ -1,375 +1,375 @@
 
 epsilon = 0, alpha = 0.1, gamma = 0
-Success Rate:21%
+Success Rate:4%
 
 epsilon = 0, alpha = 0.1, gamma = 0.2
-Success Rate:46%
+Success Rate:4%
 
 epsilon = 0, alpha = 0.1, gamma = 0.4
-Success Rate:26%
-
-epsilon = 0, alpha = 0.1, gamma = 0.6
-Success Rate:0%
-
-epsilon = 0, alpha = 0.1, gamma = 0.8
-Success Rate:1%
-
-epsilon = 0, alpha = 0.01, gamma = 0
-Success Rate:32%
-
-epsilon = 0, alpha = 0.01, gamma = 0.2
-Success Rate:66%
-
-epsilon = 0, alpha = 0.01, gamma = 0.4
-Success Rate:0%
-
-epsilon = 0, alpha = 0.01, gamma = 0.6
-Success Rate:0%
-
-epsilon = 0, alpha = 0.01, gamma = 0.8
-Success Rate:6%
-
-epsilon = 0, alpha = 0.05, gamma = 0
-Success Rate:0%
-
-epsilon = 0, alpha = 0.05, gamma = 0.2
-Success Rate:0%
-
-epsilon = 0, alpha = 0.05, gamma = 0.4
-Success Rate:65%
-
-epsilon = 0, alpha = 0.05, gamma = 0.6
-Success Rate:35%
-
-epsilon = 0, alpha = 0.05, gamma = 0.8
-Success Rate:34%
-
-epsilon = 0, alpha = 0.1, gamma = 0
-Success Rate:36%
-
-epsilon = 0, alpha = 0.1, gamma = 0.2
-Success Rate:20%
-
-epsilon = 0, alpha = 0.1, gamma = 0.4
-Success Rate:1%
-
-epsilon = 0, alpha = 0.1, gamma = 0.6
-Success Rate:5%
-
-epsilon = 0, alpha = 0.1, gamma = 0.8
-Success Rate:63%
-
-epsilon = 0, alpha = 0.2, gamma = 0
-Success Rate:0%
-
-epsilon = 0, alpha = 0.2, gamma = 0.2
-Success Rate:68%
-
-epsilon = 0, alpha = 0.2, gamma = 0.4
-Success Rate:7%
-
-epsilon = 0, alpha = 0.2, gamma = 0.6
-Success Rate:0%
-
-epsilon = 0, alpha = 0.2, gamma = 0.8
-Success Rate:9%
-
-epsilon = 0.01, alpha = 0.1, gamma = 0
-Success Rate:64%
-
-epsilon = 0.01, alpha = 0.1, gamma = 0.2
-Success Rate:9%
-
-epsilon = 0.01, alpha = 0.1, gamma = 0.4
-Success Rate:47%
-
-epsilon = 0.01, alpha = 0.1, gamma = 0.6
-Success Rate:65%
-
-epsilon = 0.01, alpha = 0.1, gamma = 0.8
-Success Rate:58%
-
-epsilon = 0.01, alpha = 0.01, gamma = 0
-Success Rate:19%
-
-epsilon = 0.01, alpha = 0.01, gamma = 0.2
 Success Rate:39%
 
-epsilon = 0.01, alpha = 0.01, gamma = 0.4
-Success Rate:75%
+epsilon = 0, alpha = 0.1, gamma = 0.6
+Success Rate:32%
 
-epsilon = 0.01, alpha = 0.01, gamma = 0.6
-Success Rate:41%
+epsilon = 0, alpha = 0.1, gamma = 0.8
+Success Rate:0%
 
-epsilon = 0.01, alpha = 0.01, gamma = 0.8
-Success Rate:44%
+epsilon = 0, alpha = 0.01, gamma = 0
+Success Rate:0%
 
-epsilon = 0.01, alpha = 0.05, gamma = 0
-Success Rate:62%
+epsilon = 0, alpha = 0.01, gamma = 0.2
+Success Rate:5%
 
-epsilon = 0.01, alpha = 0.05, gamma = 0.2
-Success Rate:69%
+epsilon = 0, alpha = 0.01, gamma = 0.4
+Success Rate:1%
 
-epsilon = 0.01, alpha = 0.05, gamma = 0.4
-Success Rate:80%
+epsilon = 0, alpha = 0.01, gamma = 0.6
+Success Rate:11%
 
-epsilon = 0.01, alpha = 0.05, gamma = 0.6
+epsilon = 0, alpha = 0.01, gamma = 0.8
+Success Rate:1%
+
+epsilon = 0, alpha = 0.05, gamma = 0
+Success Rate:2%
+
+epsilon = 0, alpha = 0.05, gamma = 0.2
+Success Rate:15%
+
+epsilon = 0, alpha = 0.05, gamma = 0.4
+Success Rate:36%
+
+epsilon = 0, alpha = 0.05, gamma = 0.6
+Success Rate:3%
+
+epsilon = 0, alpha = 0.05, gamma = 0.8
+Success Rate:0%
+
+epsilon = 0, alpha = 0.1, gamma = 0
+Success Rate:8%
+
+epsilon = 0, alpha = 0.1, gamma = 0.2
+Success Rate:13%
+
+epsilon = 0, alpha = 0.1, gamma = 0.4
+Success Rate:0%
+
+epsilon = 0, alpha = 0.1, gamma = 0.6
+Success Rate:4%
+
+epsilon = 0, alpha = 0.1, gamma = 0.8
+Success Rate:2%
+
+epsilon = 0, alpha = 0.2, gamma = 0
+Success Rate:72%
+
+epsilon = 0, alpha = 0.2, gamma = 0.2
+Success Rate:10%
+
+epsilon = 0, alpha = 0.2, gamma = 0.4
+Success Rate:19%
+
+epsilon = 0, alpha = 0.2, gamma = 0.6
+Success Rate:19%
+
+epsilon = 0, alpha = 0.2, gamma = 0.8
 Success Rate:31%
 
-epsilon = 0.01, alpha = 0.05, gamma = 0.8
-Success Rate:45%
-
 epsilon = 0.01, alpha = 0.1, gamma = 0
-Success Rate:10%
+Success Rate:81%
 
 epsilon = 0.01, alpha = 0.1, gamma = 0.2
 Success Rate:2%
 
 epsilon = 0.01, alpha = 0.1, gamma = 0.4
-Success Rate:54%
+Success Rate:22%
 
 epsilon = 0.01, alpha = 0.1, gamma = 0.6
-Success Rate:49%
+Success Rate:30%
 
 epsilon = 0.01, alpha = 0.1, gamma = 0.8
-Success Rate:59%
+Success Rate:93%
+
+epsilon = 0.01, alpha = 0.01, gamma = 0
+Success Rate:39%
+
+epsilon = 0.01, alpha = 0.01, gamma = 0.2
+Success Rate:10%
+
+epsilon = 0.01, alpha = 0.01, gamma = 0.4
+Success Rate:50%
+
+epsilon = 0.01, alpha = 0.01, gamma = 0.6
+Success Rate:79%
+
+epsilon = 0.01, alpha = 0.01, gamma = 0.8
+Success Rate:31%
+
+epsilon = 0.01, alpha = 0.05, gamma = 0
+Success Rate:53%
+
+epsilon = 0.01, alpha = 0.05, gamma = 0.2
+Success Rate:71%
+
+epsilon = 0.01, alpha = 0.05, gamma = 0.4
+Success Rate:21%
+
+epsilon = 0.01, alpha = 0.05, gamma = 0.6
+Success Rate:47%
+
+epsilon = 0.01, alpha = 0.05, gamma = 0.8
+Success Rate:37%
+
+epsilon = 0.01, alpha = 0.1, gamma = 0
+Success Rate:45%
+
+epsilon = 0.01, alpha = 0.1, gamma = 0.2
+Success Rate:77%
+
+epsilon = 0.01, alpha = 0.1, gamma = 0.4
+Success Rate:50%
+
+epsilon = 0.01, alpha = 0.1, gamma = 0.6
+Success Rate:71%
+
+epsilon = 0.01, alpha = 0.1, gamma = 0.8
+Success Rate:39%
 
 epsilon = 0.01, alpha = 0.2, gamma = 0
-Success Rate:30%
+Success Rate:96%
 
 epsilon = 0.01, alpha = 0.2, gamma = 0.2
-Success Rate:3%
+Success Rate:23%
 
 epsilon = 0.01, alpha = 0.2, gamma = 0.4
-Success Rate:54%
+Success Rate:37%
 
 epsilon = 0.01, alpha = 0.2, gamma = 0.6
-Success Rate:30%
+Success Rate:65%
 
 epsilon = 0.01, alpha = 0.2, gamma = 0.8
-Success Rate:46%
+Success Rate:70%
 
 epsilon = 0.05, alpha = 0.1, gamma = 0
-Success Rate:83%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.2
-Success Rate:72%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.4
-Success Rate:75%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.6
-Success Rate:92%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.8
-Success Rate:88%
-
-epsilon = 0.05, alpha = 0.01, gamma = 0
 Success Rate:89%
 
+epsilon = 0.05, alpha = 0.1, gamma = 0.2
+Success Rate:87%
+
+epsilon = 0.05, alpha = 0.1, gamma = 0.4
+Success Rate:85%
+
+epsilon = 0.05, alpha = 0.1, gamma = 0.6
+Success Rate:93%
+
+epsilon = 0.05, alpha = 0.1, gamma = 0.8
+Success Rate:90%
+
+epsilon = 0.05, alpha = 0.01, gamma = 0
+Success Rate:60%
+
 epsilon = 0.05, alpha = 0.01, gamma = 0.2
-Success Rate:92%
+Success Rate:65%
 
 epsilon = 0.05, alpha = 0.01, gamma = 0.4
-Success Rate:95%
+Success Rate:76%
 
 epsilon = 0.05, alpha = 0.01, gamma = 0.6
 Success Rate:88%
 
 epsilon = 0.05, alpha = 0.01, gamma = 0.8
-Success Rate:86%
+Success Rate:87%
 
 epsilon = 0.05, alpha = 0.05, gamma = 0
-Success Rate:96%
+Success Rate:87%
 
 epsilon = 0.05, alpha = 0.05, gamma = 0.2
-Success Rate:94%
+Success Rate:75%
 
 epsilon = 0.05, alpha = 0.05, gamma = 0.4
-Success Rate:69%
+Success Rate:77%
 
 epsilon = 0.05, alpha = 0.05, gamma = 0.6
-Success Rate:93%
+Success Rate:90%
 
 epsilon = 0.05, alpha = 0.05, gamma = 0.8
-Success Rate:75%
+Success Rate:88%
 
 epsilon = 0.05, alpha = 0.1, gamma = 0
 Success Rate:91%
 
 epsilon = 0.05, alpha = 0.1, gamma = 0.2
-Success Rate:90%
+Success Rate:77%
 
 epsilon = 0.05, alpha = 0.1, gamma = 0.4
-Success Rate:85%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.6
-Success Rate:85%
-
-epsilon = 0.05, alpha = 0.1, gamma = 0.8
 Success Rate:65%
 
+epsilon = 0.05, alpha = 0.1, gamma = 0.6
+Success Rate:84%
+
+epsilon = 0.05, alpha = 0.1, gamma = 0.8
+Success Rate:86%
+
 epsilon = 0.05, alpha = 0.2, gamma = 0
-Success Rate:78%
+Success Rate:63%
 
 epsilon = 0.05, alpha = 0.2, gamma = 0.2
-Success Rate:93%
+Success Rate:73%
 
 epsilon = 0.05, alpha = 0.2, gamma = 0.4
-Success Rate:77%
+Success Rate:87%
 
 epsilon = 0.05, alpha = 0.2, gamma = 0.6
-Success Rate:81%
+Success Rate:85%
 
 epsilon = 0.05, alpha = 0.2, gamma = 0.8
-Success Rate:72%
+Success Rate:84%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0
-Success Rate:93%
+Success Rate:96%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.2
-Success Rate:97%
+Success Rate:96%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.4
-Success Rate:88%
+Success Rate:92%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.6
-Success Rate:78%
+Success Rate:73%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.8
-Success Rate:76%
+Success Rate:85%
 
 epsilon = 0.1, alpha = 0.01, gamma = 0
-Success Rate:91%
-
-epsilon = 0.1, alpha = 0.01, gamma = 0.2
-Success Rate:89%
-
-epsilon = 0.1, alpha = 0.01, gamma = 0.4
-Success Rate:94%
-
-epsilon = 0.1, alpha = 0.01, gamma = 0.6
-Success Rate:84%
-
-epsilon = 0.1, alpha = 0.01, gamma = 0.8
-Success Rate:82%
-
-epsilon = 0.1, alpha = 0.05, gamma = 0
-Success Rate:85%
-
-epsilon = 0.1, alpha = 0.05, gamma = 0.2
-Success Rate:85%
-
-epsilon = 0.1, alpha = 0.05, gamma = 0.4
-Success Rate:77%
-
-epsilon = 0.1, alpha = 0.05, gamma = 0.6
-Success Rate:93%
-
-epsilon = 0.1, alpha = 0.05, gamma = 0.8
 Success Rate:90%
 
+epsilon = 0.1, alpha = 0.01, gamma = 0.2
+Success Rate:83%
+
+epsilon = 0.1, alpha = 0.01, gamma = 0.4
+Success Rate:89%
+
+epsilon = 0.1, alpha = 0.01, gamma = 0.6
+Success Rate:91%
+
+epsilon = 0.1, alpha = 0.01, gamma = 0.8
+Success Rate:81%
+
+epsilon = 0.1, alpha = 0.05, gamma = 0
+Success Rate:84%
+
+epsilon = 0.1, alpha = 0.05, gamma = 0.2
+Success Rate:92%
+
+epsilon = 0.1, alpha = 0.05, gamma = 0.4
+Success Rate:91%
+
+epsilon = 0.1, alpha = 0.05, gamma = 0.6
+Success Rate:84%
+
+epsilon = 0.1, alpha = 0.05, gamma = 0.8
+Success Rate:87%
+
 epsilon = 0.1, alpha = 0.1, gamma = 0
-Success Rate:88%
+Success Rate:84%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.2
-Success Rate:93%
+Success Rate:91%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.4
-Success Rate:88%
+Success Rate:90%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.6
 Success Rate:84%
 
 epsilon = 0.1, alpha = 0.1, gamma = 0.8
-Success Rate:89%
+Success Rate:77%
 
 epsilon = 0.1, alpha = 0.2, gamma = 0
-Success Rate:90%
+Success Rate:83%
 
 epsilon = 0.1, alpha = 0.2, gamma = 0.2
-Success Rate:92%
+Success Rate:96%
 
 epsilon = 0.1, alpha = 0.2, gamma = 0.4
-Success Rate:91%
+Success Rate:88%
 
 epsilon = 0.1, alpha = 0.2, gamma = 0.6
-Success Rate:78%
+Success Rate:89%
 
 epsilon = 0.1, alpha = 0.2, gamma = 0.8
-Success Rate:66%
+Success Rate:88%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0
-Success Rate:93%
+Success Rate:78%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.2
-Success Rate:92%
+Success Rate:90%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.4
-Success Rate:85%
+Success Rate:92%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.6
 Success Rate:79%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.8
-Success Rate:82%
+Success Rate:71%
 
 epsilon = 0.2, alpha = 0.01, gamma = 0
-Success Rate:95%
+Success Rate:93%
 
 epsilon = 0.2, alpha = 0.01, gamma = 0.2
-Success Rate:90%
-
-epsilon = 0.2, alpha = 0.01, gamma = 0.4
-Success Rate:86%
-
-epsilon = 0.2, alpha = 0.01, gamma = 0.6
-Success Rate:91%
-
-epsilon = 0.2, alpha = 0.01, gamma = 0.8
-Success Rate:72%
-
-epsilon = 0.2, alpha = 0.05, gamma = 0
-Success Rate:93%
-
-epsilon = 0.2, alpha = 0.05, gamma = 0.2
-Success Rate:93%
-
-epsilon = 0.2, alpha = 0.05, gamma = 0.4
 Success Rate:84%
 
+epsilon = 0.2, alpha = 0.01, gamma = 0.4
+Success Rate:91%
+
+epsilon = 0.2, alpha = 0.01, gamma = 0.6
+Success Rate:67%
+
+epsilon = 0.2, alpha = 0.01, gamma = 0.8
+Success Rate:87%
+
+epsilon = 0.2, alpha = 0.05, gamma = 0
+Success Rate:89%
+
+epsilon = 0.2, alpha = 0.05, gamma = 0.2
+Success Rate:90%
+
+epsilon = 0.2, alpha = 0.05, gamma = 0.4
+Success Rate:89%
+
 epsilon = 0.2, alpha = 0.05, gamma = 0.6
-Success Rate:82%
+Success Rate:84%
 
 epsilon = 0.2, alpha = 0.05, gamma = 0.8
-Success Rate:78%
+Success Rate:75%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0
-Success Rate:94%
+Success Rate:87%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.2
 Success Rate:89%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.4
-Success Rate:81%
+Success Rate:94%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.6
-Success Rate:76%
+Success Rate:85%
 
 epsilon = 0.2, alpha = 0.1, gamma = 0.8
-Success Rate:84%
+Success Rate:75%
 
 epsilon = 0.2, alpha = 0.2, gamma = 0
-Success Rate:88%
+Success Rate:85%
 
 epsilon = 0.2, alpha = 0.2, gamma = 0.2
-Success Rate:93%
+Success Rate:86%
 
 epsilon = 0.2, alpha = 0.2, gamma = 0.4
-Success Rate:81%
+Success Rate:83%
 
 epsilon = 0.2, alpha = 0.2, gamma = 0.6
-Success Rate:84%
+Success Rate:82%
 
 epsilon = 0.2, alpha = 0.2, gamma = 0.8
-Success Rate:78%
+Success Rate:70%

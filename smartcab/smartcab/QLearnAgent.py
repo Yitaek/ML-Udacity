@@ -7,7 +7,7 @@ import os
 cur_dir = os.path.dirname(__file__)
 path = os.path.abspath(cur_dir)
 path = os.path.join(path, '../sim-results')
-fullpath = os.path.join(path, "q_learn.txt")
+fullpath = os.path.join(path, "q_table.txt")
 file = open(fullpath, 'a')
 
 class QLearn(Agent):
@@ -20,7 +20,7 @@ class QLearn(Agent):
 
         parameters= "epsilon = " + str(epsilon) + ", alpha = " + str(alpha) + ", gamma = " + str(gamma) + "\n"
         
-        file.write("\n" + parameters)
+        #file.write("\n" + parameters)
 
     def getQ(self, state, action):
         key = (state, action)
@@ -58,6 +58,7 @@ class QLearn(Agent):
         if argmax_q is None:
             argmax_q = 0.0
         self.learnQ(state, action, reward, reward + self.gamma*argmax_q)
+        file.write(str(self.Q) + "\n")
 
 
 class QLearningAgent(Agent):
@@ -68,9 +69,8 @@ class QLearningAgent(Agent):
         self.color = 'red'  # override color
         self.planner = RoutePlanner(self.env, self)  # simple route planner to get next_waypoint
 
-        # TODO: Initialize any additional variables here
-        self.QLearn = QLearn(epsilon=0.05, alpha=0.01);
-
+    def params(self, epsilon, alpha, gamma):
+        self.QLearn = QLearn(epsilon, alpha, gamma);
 
     def reset(self, destination=None):
         self.planner.route_to(destination)
@@ -96,10 +96,10 @@ class QLearningAgent(Agent):
         # TODO: Learn policy based on state, action, reward
         self.QLearn.learn(self.state, action, next_state, reward)
 
-        # print "LearningAgent.update(): deadline = {}, inputs = {}, action = {}, reward = {}".format(deadline, inputs, action, reward)  # [debug]
+        # print "LearningAgent.update(): deadline = {}, inputs = {}, action = {}, reward = {}".format(deadline, inputs, action, reward)
 
 
-def run():
+def run(epsilon, alpha, gamma):
     """Run the agent for a finite number of trials."""
 
     # Set up environment and agent
@@ -107,6 +107,7 @@ def run():
     a = e.create_agent(QLearningAgent)  # create agent
     e.set_primary_agent(a, enforce_deadline=True)  # specify agent to track
     # NOTE: You can set enforce_deadline=False while debugging to allow longer trials
+    gridSearch = a.params(epsilon, alpha, gamma)
 
     # Now simulate it
     sim = Simulator(e, update_delay=0.001, display=False)  # create simulator (uses pygame when display=True, if available)
@@ -115,6 +116,16 @@ def run():
     sim.run(n_trials=100)  # run for a specified number of trials
     # NOTE: To quit midway, press Esc or close pygame window, or hit Ctrl+C on the command-line
 
+    file.write("Success Rate:{}%\n".format(e.successRate))
 
 if __name__ == '__main__':
-    run()
+    epsilon = [0, 0.01, 0.05, 0.1, 0.2]
+    alpha = [0.1, 0.01, 0.05, 0.1, 0.2]
+    gamma = [0, 0.2, 0.4, 0.6, 0.8]
+
+    """for eps in epsilon:
+        for a in alpha:
+            for g in gamma:
+                run(epsilon=eps, alpha=a, gamma=g)"""
+
+    run(epsilon=0.1, alpha=0.1, gamma=0.2)
