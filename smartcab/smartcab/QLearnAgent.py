@@ -30,7 +30,9 @@ class QLearn(Agent):
         old_Q = self.Q.get((state, action), None)
 
         if old_Q is None:
-            self.Q[(state, action)] = reward
+            self.Q[(state, action)] = 0
+            # initializing with higher constant to make optimistic agent: all possible actions will yield excellent rewards
+            # incentivise exploratory-leaning agent 
         else:
             self.Q[(state, action)] = old_Q + self.alpha * (max_val - old_Q)
 
@@ -58,7 +60,7 @@ class QLearn(Agent):
         if argmax_q is None:
             argmax_q = 0.0
         self.learnQ(state, action, reward, reward + self.gamma*argmax_q)
-        file.write(str(self.Q) + "\n")
+        file.write("state = {}, action = {}, reward = {}\n".format(state, action, reward))
 
 
 class QLearningAgent(Agent):
